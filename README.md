@@ -1,6 +1,6 @@
 # KINGFISHER GROUP OF HOTELS
 
-![KingFisher Group of Hotels](C:\Users\Mahes\Downloads\KGOH LOGO.jpeg)
+![KingFisher Group of Hotels](http://C:\Users\Mahes\Downloads\KGOH LOGO.jpeg)
 
 
     The site will have following:
