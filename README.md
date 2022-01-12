@@ -1,6 +1,10 @@
 # KINGFISHER GROUP OF HOTELS
 
-![KingFisher Group of Hotels](http://C:\Users\Mahes\Downloads\KGOH LOGO.jpeg)
+![KingFisher Group of Hotels]
+<p align="center">
+  <img src="https://photos.app.goo.gl/RGanaXcYLCtw4ZZj7" width="350" title="hover text">
+  <img src="https://photos.app.goo.gl/RGanaXcYLCtw4ZZj7" width="350" alt="accessibility text">
+</p>
 
 
     The site will have following:
