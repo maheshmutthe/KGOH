@@ -1,6 +1,7 @@
 # KINGFISHER GROUP OF HOTELS
 
-![KingFisher Group of Hotels](https://photos.app.goo.gl/fyvJfNfiSZNr8my69)
+![KingFisher Group of Hotels](https://photos.app.goo.gl/nghqp2XAK1MD9KqP7)
+
 
     The site will have following:
 
